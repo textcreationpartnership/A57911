@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Rupert, his reply to a pamphlet entituled The Parliaments vindication in answer to Prince Ruperts declaration published by His Excellencies special command to informe all His Majesties good subjects what false aspersions have beene cast upon him.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57911</idno>
+            <idno type="STC">Wing R2306</idno>
+            <idno type="STC">ESTC R877</idno>
+            <idno type="EEBO-CITATION">11875418</idno>
+            <idno type="OCLC">ocm 11875418</idno>
+            <idno type="VID">50202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 547:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Rupert, his reply to a pamphlet entituled The Parliaments vindication in answer to Prince Ruperts declaration published by His Excellencies special command to informe all His Majesties good subjects what false aspersions have beene cast upon him.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Oxford by Leonard Lichfield, and now reprinted at London for Humphrey Blundevill,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682. --  Declaratie van Prins Robbert.</term>
+               <term>Parliaments vindication, in answer to Prince Rupert's declaration.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50202:1"/>
+            <p>PRINCE RUPERT HIS REPLY TO A PAMPHLET, ENTITULED, The Parliaments Vindication, in anſwer to
+Prince RUPERTS Declaration. <hi>Publiſhed by His Excellencies ſpeciall command,</hi> To informe
+all His Majeſties good Subjects, what falſe aſperſions have beene caſt upon him.</p>
+            <p>Printed at <hi>Oxford</hi> by <hi>Leonard Lichfield,</hi> and now reprinted at <hi>London</hi>
+for <hi>Humphrey Blundevill.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50202:2"/>
+            <pb n="3" facs="tcp:50202:2"/>
+            <head>Prince <hi>Rupert</hi> his Reply to a Pam<g ref="char:EOLhyphen"/>phlet, intituled, The Parliaments Vindi<g ref="char:EOLhyphen"/>cation; in
+anſwer to Prince <hi>Ruperts</hi> Declaration.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Made it almoſt a miracle that the world ſhould ſee me in Print, when I ſet out my
+Declaration, to expurge my ſelfe, and diſabuſe the world from the calumnies which have been
+ſo maliciouſly caſt upon me. But that which was voluntary before, is now inforced out of me
+againſt my diſpo<g ref="char:EOLhyphen"/>ſition; I am ingaged once more to ap<g ref="char:EOLhyphen"/>peare in Print, to returne backe
+thoſe notorious and ſcanda<g ref="char:EOLhyphen"/>lous lies which an unknowne Eſquire, aſhamed to expreſſe his
+name more then <hi>S. W.</hi> in an anſwer to our Declaration, which he cals The Parliaments
+Vindication, hath fixed upon my name and honour, upon himſelfe: and certainly were hee knowne to
+me, or one worth my anger, I ſhould ſhape him a language in another Dialect: but though the
+wretch be ſo worthleſſe, I cannot ſo much decline my blood and birth, as to make it a
+buſineſſe to inquire him out; yet ſlan<g ref="char:EOLhyphen"/>ders (like a fatall poiſon) defuſes it ſelfe
+unſeene, and blaſts mens memories. And as an ambuſh againſt the contagious venom of his
+aſperſions, I ſhall divulge to the world the ap<g ref="char:EOLhyphen"/>parent forgeries in that Vindication, and the
+impertinency of it, as an anſwer to our Declaration. And certainly, in con<g ref="char:EOLhyphen"/>ſcience, the
+honeſt men of the world muſt needs rather cre<g ref="char:EOLhyphen"/>dit me a Prince, then the bare aſſertions of
+a nameleſſe fel<g ref="char:EOLhyphen"/>low, who anſwers nothing at all poſitively, but circumſtanti<g ref="char:EOLhyphen"/>ally, and
+conjecturally to our former Declaration.</p>
+            <pb n="4" facs="tcp:50202:3"/>
+            <p>Firſt, hee ſayes (and thinkes there he kils my integrity dead) that I ſpare the Preſſe
+for publiſhing my Declarations, and am more mercifull to Paper than to men; and that this
+Declaration pend in my owne favour, can no way right me. Is this any the leaſt ſhew of
+reaſon? What can more right any man injured, then a reall explanation of his innocence? It was
+all I aymed at, not to ſatisfie ſuch worthy Gentle<g ref="char:EOLhyphen"/>men as this Pamphleter is, but to give the
+noble and brave ſpirits, and honeſt minded Gentlemen and Citizens that are againſt us, a full
+and true intelligence, how much my fame had been traduced and vituperated by ſuch Raſcals, as
+this ſeems to be; whoſe apparen tuntruths ſo honorably I conceive of the Parliament, thogh
+they love me not) could it know the audacious author of them, Its Juſtice would ſeverely
+puniſh, and that hee knew well enough, when he onely ſet two doubtfull letters inſtead of his
+whole name before his Pam<g ref="char:EOLhyphen"/>phlet.</p>
+            <p>And to that truth which I charged the Lord <hi>Wharton</hi> with, with an impertinent
+ſuppoſition he replies it may be an<g ref="char:EOLhyphen"/>ſwered, that my Lord <hi>Wharton</hi> knew the great
+advantage gotten at <hi>Edge Hill,</hi> had many concurrent Cauſes, and what that concernes my
+charge againſt that Lord, let all the world be Judge; and then in flat railing he comments upon,
+but not anſwers the ſenſe of our Declaration; he tels the people that Prince <hi>Rupert</hi>
+and his troopers plundred the Countrey, and bids them aske the men whom we had plundred, and their
+generall affirmation would confute our particular aſ<g ref="char:EOLhyphen"/>ſertion, and certifie the world, Prince
+<hi>Rupert</hi> cannot be in<g ref="char:EOLhyphen"/>nocent of theſe outrages; and that my Lord <hi>Wharton</hi> may be
+vindicated by that teſtimony, to have ſpoken nothing but truth: And that my Lord durſt tell
+mee to my face, that I was a plundring Prince, and with his ſword make proofe there is nothing
+but forgery and falſhood in my Declarati<g ref="char:EOLhyphen"/>on: but ſurely the fellow, though hee may have beene
+in my Lord <hi>Whartons</hi> company, is none of his Counſell, promiſing more in his behalfe
+then I believe his Lorſhip will ever ven<g ref="char:EOLhyphen"/>ture to performe. I could wiſh he durſt or would
+verifie his
+<pb n="5" facs="tcp:50202:3"/>Champions words, I ſhould, waving all the
+diſparity be<g ref="char:EOLhyphen"/>twixt our bloods, gladly entertaine the motion and the ſuc<g ref="char:EOLhyphen"/>ceſſe ſhould
+ſpeake who was guilty of the untruth; but I feare his Lordſhip is not yet furniſhed with ſo
+noble a reſo<g ref="char:EOLhyphen"/>lution, in time perhaps hee may be perſwaded into it: but let my moſt ſevere
+enemies be my witneſſe, how plaine, and without the leaſt blemiſh my Declaration yet
+ſtands: for all the tedious circumſtance this Eſquire (for ought I know of the Damſels)
+hath cryed againſt its verity. It is a proofe ſuf<g ref="char:EOLhyphen"/>ficient, that I have plundred houſes,
+becauſe he affirmes it from the teſtimony of men in the Moone, for (ſurely upon this earth
+they have no reſidence. Where are thoſe men that will affirme it? in what County or Towne
+ſtood thoſe houſes, by me or my ſufferance betrayed to that miſery of rapine? let him but
+name them, and I ſhall not deny mine owne act, when I am ſo palpably convinced; it were an
+impudence beyond all former examples. For the faint<g ref="char:EOLhyphen"/>heartedneſſe of their ſouldiers at
+<hi>Keynton,</hi> which I touch in my Declaration, it ſeemes the anſwer of it would make men
+believe the goodneſſe of their cauſe muſt in point of ne<g ref="char:EOLhyphen"/>ceſſity exalt their courage to
+the height of daring; in Gods name, let him ſtrive to ſooth the people with a conceit wee were
+vanquiſh'd, I wiſh at no time better ſucceſſe againſt any of his Majeſties enemies
+then wee had at <hi>Keynton,</hi> or at <hi>Worceſter.</hi> But as if this gallant had a
+priviledge for his rai<g ref="char:EOLhyphen"/>ling untruths, hee comes upon us with queſtions as ridicu<g ref="char:EOLhyphen"/>lous as falſe,
+namely, who it was that compelled divers of their eminent Captaines to ride ſtarke naked? who it
+was that drove their men like beaſts before our Army? and then affirmatively he ſayes, they
+tooke a religious Gentleman at <hi>Thiſleworth,</hi> and faſtned a cord to his feet, and
+dragg'd him about the towne, and then ſhot him with a piſtoll. I ſhall doe the good Gentleman
+the honour to anſwer his queſtions, which, if they were true, yet what am I concern'd in them?
+For if the ſouldiers did as the law of armes allowes them, ſtrip ſome of their Captaines, was
+I ingaged either to prohi<g ref="char:EOLhyphen"/>bite
+<pb n="6" facs="tcp:50202:4"/>them the making the beſt of their priſonem? or
+obliged to recloth thoſe Captaines that were deveſted of their ap<g ref="char:EOLhyphen"/>parell? For driving their men
+like beaſts before our army, belike the ſaid Gentleman imagines wee are bound in cour<g ref="char:EOLhyphen"/>teſie
+to goe a foot, and give their men (our priſoners) our horſes. If wee did drive them like
+beaſts, wee were not much to blame to uſe them according to what indeed they were; but that
+they tooke a religious Gentleman at <hi>Thiſle<g ref="char:EOLhyphen"/>worth,</hi> and uſed as aforeſaid, what
+<hi>They</hi> thoſe were, is alto<g ref="char:EOLhyphen"/>gether beyond my knowledge, much more therefore diſtant
+either from my command or connivence; but it ſhould ſeeme his <hi>ipſe dixit</hi> is enough
+to render mee guilty, becauſe he affirmes 'tis well knowne wee continually uſe it in our army,
+and then with unneceſſary digreſſions and repetiti<g ref="char:EOLhyphen"/>ons he runs on railing at my particular
+crueltie, ſaying, that I would make them believe I am juſt and mercifull, which they may
+ſooner credit of a Butcher, who kills Sheepe for the goodneſſe of their fleſh; and ſo
+Prince <hi>Rupert</hi> mur<g ref="char:EOLhyphen"/>thers the Kings Subjects for their good affections to the King and
+Parliament. An excellent purity, and worthy ſuch an author as hath no name he dares be called by:
+where, or by what meanes, private or publike, have I ſought the death of any of his Majeſties
+Subjects? who is't can teſtifie this againſt me? certainly, were I arraigned before the
+ſevereſt and moſt partiall Juries in the world, they would acquit me, this mans bare
+aſſeveration would not condemne mee. Perhaps, as it is warrantable both by the laws of heaven
+and nations, in a lawfull war, to endeavour to deſtroy as many of ones enemies as come within his
+reach, that I muſt confeſſe I did at <hi>Keynton,</hi> and elſewhere, when I was call'd to
+it by juſt occaſion, but that is no way a confirmation to his But<g ref="char:EOLhyphen"/>cherly compariſon. Then as
+if he would convince me for the notoriouſeſt lyer in the world; he tels me it doth not become
+the ſonne of a King to ſtretch his words beyond beliefe be<g ref="char:EOLhyphen"/>yond his beliefe, be means, who
+(only becauſe himſelf fancies it ſo) will conclude and averreſt to the world, that
+whatſo<g ref="char:EOLhyphen"/>ever
+<pb n="7" facs="tcp:50202:4"/>I have proteſted is falſe, But I hope ſome
+man of quali<g ref="char:EOLhyphen"/>ty, and all indifferent ſoules beſide, will not let it be beyond their beliefe,
+and then I ſhall not trouble my ſelfe to thinke on ſo abject a perſons calumny, who without
+feare of hea<g ref="char:EOLhyphen"/>ven or hell, or puniſhment for his impudence, goes on tax<g ref="char:EOLhyphen"/>ing me for an Incendiary
+of theſe wars, inciting his Majeſtie, my royall Uncle, to a civill war againſt his loving
+Subjects: but I atteſt heaven and his ſacred Majeſtie, as my witneſſe, it is a crime I
+never was guilty of in thought, but alwayes deſired that a faire attonement might (if it might
+with the honour of my royal Uncle have been effected) ſuddenly have proceeded betwixt him and his
+Parliament, and for that purpoſe have often beene an humble interceſſor to his Ma<g ref="char:EOLhyphen"/>jeſty:
+For my taking away the Maiors plate at <hi>Reading,</hi> and other places, if I had done ſuch an
+action, by the law of armes it might have been juſtified; but I muſt needs aske this fel<g ref="char:EOLhyphen"/>low
+what thoſe other places were? or where got hee the in<g ref="char:EOLhyphen"/>telligence of my plundring the Maior of
+<hi>Reading?</hi> hee will anſwer, they ſaid it; but who they were, he knowes not: in truth nor
+I neither, nor no man elſe; for if the Maior of <hi>Reading</hi> were put to his oath, I have
+ſo much confidence in the honeſtie of the man, that he would not only acquit me of that action,
+but report honourably of me, that I uſed him with all reſpects befitted a perſon of his worth
+to receive from one of my qualitie: and whereas he ſaies, my actions contradict my words, or
+elſe are not full of that ſenſe they ought to be, ſurely the man is either very mad, or
+fooliſh, or both, he could never be ſo impudent elſe, or ignorant of the meaning of my words,
+which are plaine and perſpicuous in my Declaration, namely, That I will never fight in an
+un<g ref="char:EOLhyphen"/>righteous quarrell; nor have I hitherto, nor ever will here<g ref="char:EOLhyphen"/>after violate that promiſe,
+whatſoever aſperſion this or the like ſlanderous Pamphlet ſhall caſt upon me.</p>
+            <p>And whereas in the end of my Declaration I ſay, I ſhould repute it the greateſt victory in
+the world to ſee his Maje<g ref="char:EOLhyphen"/>ſtie enter <hi>London</hi> in peace without ſhedding one drop of
+blood or plundring any of one farthing: at that weapon hee
+<pb n="8" facs="tcp:50202:5" rendition="simple:additions"/>thinks to pay mee home, demanding how any
+reaſonable man can believe that I ſhould deſire it, when it is ſuppoſed I have beene the
+chiefe agent to provoke the King to ad<g ref="char:EOLhyphen"/>vance his Army ſo neere it, and that I and my Cavaliers
+had divided the ſtreets among us before our comming hither. This of all calumnies (with which his
+ſawcie falſe vindica<g ref="char:EOLhyphen"/>tion is ſtuffed) is the moſt malicious and untrue, when I take heavens
+for my voucher in this truth, that there is no City in his Majeſties Dominions, nay not in
+Europe, that I beare more unfeigned reſpects to, then to that famous and noble City, which I have
+alwayes accounted the moſt eminent ap<g ref="char:EOLhyphen"/>pendix to my gracious Uncles Crowne, his Chamber and chiefe
+reſidence, and have alwayes thought of its Citizens as loyall and valiant men, and as well
+exerciſed in martiall di<g ref="char:EOLhyphen"/>ſcipline as any ſouldiers in Chriſtendome. But I loſe time in
+minding a thing ſo ridiculous as this vindication, much more in anſwering its contumelious
+falſhoods ſeverally: nor might it beſeeme the dignitie of a Prince to have taken no<g ref="char:EOLhyphen"/>tice of
+ſo infamous a Libeller as this unknowne Eſquire is, had not the importunitie of ſome friends
+prevailed above mine owne will with me, nor doubt I; but all the world will credit my
+aſſeverations, when they ſhall really conſider the improbability and untruth of thoſe of
+my accuſers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
